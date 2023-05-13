@@ -27,7 +27,7 @@
     "ngx-youtube-player": "^7.1.5",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.13.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.900.3",
